@@ -1,5 +1,12 @@
 # MatSci YAMZ Metadictionary
 
+> **This repository is retained for historical reference.** Active development
+> has moved to
+> [`metadata-research/matsci-sam`](https://github.com/metadata-research/matsci-sam).
+> New code and documentation contributions should follow the
+> [MatSci-SAM contribution guide](https://github.com/metadata-research/matsci-sam/blob/dev/contributing.md)
+> and open a pull request to its protected `dev` branch.
+
 This is the source code for matsci.yamz.net
 
 ## Requirements
